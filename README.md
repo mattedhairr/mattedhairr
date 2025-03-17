@@ -6,8 +6,8 @@
 📚 Always learning and contributing to open-source VLSI projects!  
 
 🔗 **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/yourusername)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](www.linkedin.com/in/jatin-parmar-9b1b962ba)  
+
 
 📌 **Pinned Projects:**  
 🔹 [4-bit ALU RTL to GDSII](https://github.com/mattedhairr/4-bit-ALU-RTL-to-GDSII)  
