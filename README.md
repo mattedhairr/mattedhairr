@@ -1,39 +1,37 @@
 # 👋 Hi, I'm Jatin Parmar!
-🎓 **Electronics & Communication Engineering Student | VLSI & Physical Design Enthusiast**  
-💡 Passionate about **backend VLSI, RTL to GDSII, and physical design automation**  
-🚀 Exploring **OpenROAD, Yosys, OpenSTA, and SkyWater PDK**  
-📚 Always learning and contributing to open-source VLSI projects! 
 
- 
-🔗 **Connect with me:**  
+🎓 **Electronics & Communication Engineering Student** | VLSI & Physical Design Enthusiast  
+💡 Focused on **backend VLSI, RTL to GDSII, physical design automation**, and AI-assisted product engineering.  
+🚀 Creator of [**YouDO**](https://github.com/mattedhairr/YouDO) — The Aspirant Execution Companion.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jatin-parmar-9b1b962ba)  
-
-
-📌 **Pinned Projects:**  
-
-🔹 [8-bit RISC-V Inspired CPU (RTL to GDSII)](https://github.com/mattedhairr/8-bit-CPU-RTL-to-GDSII)  
-🔹 [4-bit ALU RTL to GDSII](https://github.com/mattedhairr/4-bit-ALU-RTL-to-GDSII)  
-
-
-💻 **Tech Stack:**  
-
-![Verilog](https://img.shields.io/badge/-Verilog-blue?style=flat-square&logo=verilog)  
-![Yosys](https://img.shields.io/badge/-Yosys-green?style=flat-square&logo=yosys)  
-![OpenROAD](https://img.shields.io/badge/-OpenROAD-orange?style=flat-square)  
-![SkyWater PDK](https://img.shields.io/badge/-SkyWater%20PDK-purple?style=flat-square)  
 ---
 
-🚀 **Always looking for exciting projects & collaborations!**  
-<!--
-**mattedhairr/mattedhairr** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Projects
+
+- 🎯 [**YouDO — Aspirant Execution Companion**](https://github.com/mattedhairr/YouDO)  
+  *Product Lead & Creator. Designed and shipped a 6-tier exam syllabus blueprint & daily execution app for Android (Capacitor) and Web (PWA).*
+
+- 💻 [**8-bit RISC-V Inspired CPU (RTL to GDSII)**](https://github.com/mattedhairr)  
+  *Open-source RISC-V digital design flow using Yosys & OpenROAD.*
+
+- ⚡ [**4-bit ALU RTL to GDSII**](https://github.com/mattedhairr)  
+  *Digital logic ALU implementation targetting SkyWater 130nm PDK.*
+
+---
+
+### 🛠️ Hardware & Engineering Skills
+
+- **VLSI & Hardware**: Verilog, Yosys, OpenROAD, OpenSTA, SkyWater PDK
+- **Product & App Delivery**: AI-Assisted Engineering, Android APK Build Pipelines, PWA Deployment
+
+---
+
+### 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jatin%20Parmar-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/jatin-parmar-9b1b962ba)
+[![Instagram](https://img.shields.io/badge/Instagram-@mattedhairr-E4405F?style=flat&logo=instagram)](https://instagram.com/mattedhairr)
+[![GitHub](https://img.shields.io/badge/GitHub-mattedhairr-181717?style=flat&logo=github)](https://github.com/mattedhairr)
+
+---
+
+🚀 *Always open to exciting hardware & software engineering collaborations!*
