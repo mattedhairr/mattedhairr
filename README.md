@@ -9,7 +9,7 @@
 ### 📌 Featured Projects
 
 - 🎯 [**YouDO — Aspirant Execution Companion**](https://github.com/mattedhairr/YouDO)  
-  *Product Lead & Creator. Designed and shipped a 6-tier exam syllabus blueprint & daily execution app for Android (Capacitor) and Web (PWA).*
+  *A focused execution and goal-planning companion for serious aspirants. Build flexible goal trees, schedule daily work, run pause-aware focus sessions, review honest progress, and optionally join a privacy-conscious public focus Board.*
 
 - 💻 [**8-bit RISC-V Inspired CPU (RTL to GDSII)**](https://github.com/mattedhairr)  
   *Open-source RISC-V digital design flow using Yosys & OpenROAD.*
